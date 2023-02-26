@@ -1,0 +1,8 @@
+E:\SkilFact\WorkWithFiles\Task3\bin\Debug\Task3.exe.config
+E:\SkilFact\WorkWithFiles\Task3\bin\Debug\Task3.exe
+E:\SkilFact\WorkWithFiles\Task3\bin\Debug\Task3.pdb
+E:\SkilFact\WorkWithFiles\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+E:\SkilFact\WorkWithFiles\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+E:\SkilFact\WorkWithFiles\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\SkilFact\WorkWithFiles\Task3\obj\Debug\Task3.exe
+E:\SkilFact\WorkWithFiles\Task3\obj\Debug\Task3.pdb
